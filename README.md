@@ -7,6 +7,10 @@ Notebook 1 & 2: <br />
 Description: These notebooks show the performance of the credit scoring model without incorporating MEV. <br />
 Notebook 3 & 4: <br />
 Description: These notebooks show the performance of the credit scoring model with MEV, using the date of the competition as the anchoring date. <br />
+
+Dataset: [Dataset and Result from this project can be access through this link.]((https://drive.google.com/drive/folders/1-70q2hKvdg0QyLlxO2cZ_-zXvNeEXnHi?usp=sharing))
+
+
 Visualization Dashboard: <br />
 The interactive dashboard provides insights into the model's performance and can be accessed through this link: [Visualization Dashboard.](https://public.tableau.com/app/profile/sandy5872/viz/CreditScoringDashboard/CreditScoringDashboard)<br />
 
