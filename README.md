@@ -11,4 +11,4 @@ Visualization Dashboard
 The interactive dashboard provides insights into the model's performance and can be accessed through this link: [Visualization Dashboard.](https://public.tableau.com/app/profile/sandy5872/viz/CreditScoringDashboard/CreditScoringDashboard)
 
 Credits
-Special thanks to https://www.kaggle.com/code/mlisovyi/lightgbm-hyperparameter-optimisation-lb-0-761 for providing feature engineering and tuning process guidance.
+Special thanks to [[Mlisovyi.](https://www.kaggle.com/code/mlisovyi/lightgbm-hyperparameter-optimisation-lb-0-761))]for providing feature engineering and tuning process baseline.
