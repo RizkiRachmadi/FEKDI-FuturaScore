@@ -8,7 +8,7 @@ Description: These notebooks show the performance of the credit scoring model wi
 Notebook 3 & 4: <br />
 Description: These notebooks show the performance of the credit scoring model with MEV, using the date of the competition as the anchoring date. <br />
 
-Dataset: [Dataset and Result from this project can be access through this link.]((https://drive.google.com/drive/folders/1-70q2hKvdg0QyLlxO2cZ_-zXvNeEXnHi?usp=sharing))
+Dataset: [Dataset and Result from this project can be access through this link.](https://drive.google.com/drive/folders/1-70q2hKvdg0QyLlxO2cZ_-zXvNeEXnHi?usp=sharing) <br />
 
 
 Visualization Dashboard: <br />
